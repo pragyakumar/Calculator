@@ -31,9 +31,9 @@ This set of files implements the Arithmetic Calculator application. Below are th
 
 ## Screenshots
 
-! Home Page (https://raw.githubusercontent.com/pragyakumar/Calculator/master/homePage.png)
-! Complex Calculator (https://raw.githubusercontent.com/pragyakumar/Calculator/master/complex_calculator.png)
-! Arithmetic Calculator (https://raw.githubusercontent.com/pragyakumar/Calculator/master/arithematic_calculator.png)
+! Home Page (homePage.png)
+! Complex Calculator (complex_calculator.png)
+! Arithmetic Calculator (arithematic_calculator.png)
 
 ## Usage
 
