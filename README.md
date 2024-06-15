@@ -29,6 +29,12 @@ This set of files implements the Arithmetic Calculator application. Below are th
 - `multiply()`: Performs multiplication of two numbers.
 - `divide()`: Performs division of two numbers.
 
+## Screenshots
+
+! Home Page (https://raw.githubusercontent.com/pragyakumar/Calculator/master/homePage.png)
+! Complex Calculator (https://raw.githubusercontent.com/pragyakumar/Calculator/master/complex_calculator.png)
+! Arithmetic Calculator (https://raw.githubusercontent.com/pragyakumar/Calculator/master/arithematic_calculator.png)
+
 ## Usage
 
 To use the calculator applications, simply open the respective HTML files (`complex_calculator.html` or `arithmetic_calculator.html`) in a web browser. Enter the numbers and select the desired operation to view the result.
