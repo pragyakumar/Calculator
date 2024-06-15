@@ -2,7 +2,7 @@
 
 This repository contains two calculator applications implemented using HTML and JavaScript:
 
-1. **Complex Calculator**: A calculator capable of performing basic arithmetic operations as well as square root, exponentiation, and factorial calculations.
+1. **Complex Calculator**: A calculator capable of performing basic arithmetic operations with imaginery and real numbers.
 
 2. **Arithmetic Calculator**: A basic calculator that performs addition, subtraction, multiplication, and division operations.
 
@@ -16,9 +16,9 @@ This set of files implements the Complex Calculator application. Below are the m
 - `subtract()`: Performs subtraction of two numbers.
 - `multiply()`: Performs multiplication of two numbers.
 - `divide()`: Performs division of two numbers.
-- `squareRoot()`: Calculates the square root of a number.
-- `power()`: Calculates the exponentiation of a number.
-- `factorial()`: Calculates the factorial of a non-negative integer.
+- `toRectangular()`
+- `toPolar()`
+- `Conjugate()`
 
 ### 2. `arithmetic_calculator.html` and `arithmetic_calculator.js`
 
